@@ -3,7 +3,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guikoller&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula&hide=stars,prs,issues,contribs" />
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guikoller" />
+<img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guikoller&theme=dracula" />
 
 
 <!--
